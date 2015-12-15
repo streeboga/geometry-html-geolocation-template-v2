@@ -1,4 +1,4 @@
-# geometry-html-geolocation-template-v2
+# GeoMetry – HTML Geolocation Template v2
 ![](https://raw.githubusercontent.com/webtechfreaky/geometry-html-geolocation-template-v2/master/banner.png)
 
 Design for geolocation social network (HTML).
